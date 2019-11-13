@@ -1,4 +1,3 @@
-# INFORMACION PERSONAL
 # Anibal Franklin Fajardo.
 ## Fecha de nacimiento.
 - 20 de julio del 2002.
