@@ -1,7 +1,7 @@
 # Anibal Franklin Fajardo.
 ## Fecha de nacimiento.
 - 20 de julio del 2002.
-## lugar de nacimiento.
+## Lugar de nacimiento.
 - yo nací en la ciudad de guayaquil.
 ## Nombre del papá. 
 - Jesús de la Cruz Fajardo Villafuerte.
